@@ -8,4 +8,9 @@ The purpose of this project is to perform an data analysis of New York city rent
 
 - The total number of trips for this dataset is 2,344,224.
 
+![Capture2 peak hours](https://user-images.githubusercontent.com/92561493/152722817-328d2f49-50ef-4a72-8e74-0877dc199e19.PNG)
+- We found that New York City Agust peak hours in August were usaually from 7am to 9am and 5pm to 7pm. Those were the times people went to work and off work.
+
+
+
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
