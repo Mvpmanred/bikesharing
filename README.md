@@ -6,6 +6,6 @@ The purpose of this project is to perform an data analysis of New York city rent
 ## Results
 ![Capture1 totoal number of trip for Aug](https://user-images.githubusercontent.com/92561493/152722662-6f0737ec-587d-4584-a4fb-ee7ae52d4378.PNG)
 
--The total number of trips for this dataset is 2,344,224.
+-- The total number of trips for this dataset is 2,344,224.
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
